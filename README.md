@@ -2,6 +2,7 @@
 <h3 align="center">Fullstack Developer from Spain</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/pK2Vne1.png">
 
+
 - 🔥 I’m currently working on a content manager in AWS to store and serve multimedia files
 
 - 🌱 I’m currently learning AWS, CDK, Python, and **DevOps**
