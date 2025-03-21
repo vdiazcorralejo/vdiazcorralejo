@@ -20,7 +20,8 @@
 <a href="https://www.linkedin.com/in/vicentedca/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>  
-📧 **vdiazcorralejo@gmail.com**  
+
+📧  **vdiazcorralejo@gmail.com**  
 
 ---
 
