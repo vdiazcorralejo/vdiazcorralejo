@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vicente Díaz</h1>
-<h3 align="center">Fullstack Developer & AWS Cloud Enthusiast</h3>
+<h3 align="center">Fullstack Developer & AWS Certified Solutions Architect | Developer Associate</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/pK2Vne1.png">
 
@@ -7,12 +7,12 @@
  
 🔹 Currently building a **content manager on AWS** for multimedia storage & distribution.  
 🔹 Passionate about **Cloud Computing, DevOps, and Scalable Architectures**.  
-🔹 Looking for opportunities as an **AWS Solutions Architect & Software Engineer**.  
+🔹 Open to opportunities as an **AWS Solutions Architect & Software Engineer**.  
 
  📖 What I'm Learning 
  
-🌱 **AWS, CDK, Python, and DevOps**  
-📚 **Currently obtaining AWS Solutions Architect Associate Certification**  
+🌱 Deepening expertise in **AWS, CDK, Python, and DevOps**  
+📚 Expanding into **Serverless Architectures & Advanced Cloud Design**  
 
  💬 Ask Me About  
  
@@ -43,8 +43,9 @@
 <a href="https://www.credly.com/users/vicente-diaz-corralejo-arganda" target="_blank">
   <img width="224px" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Solutions Architect Associate Badge"/>
 </a>  
-
-📌 **Currently obtaining AWS Solutions Architect Associate Certification**  
+<a href="https://www.credly.com/users/vicente-diaz-corralejo-arganda" target="_blank">
+  <img width="224px" src="https://images.credly.com/size/340x340/images/cd53b277-49bc-4d7c-bbaa-c5e41a1b9860/image.png" alt="Developer Associate Badge"/>
+</a>  
 
 ---
 
