@@ -44,7 +44,7 @@
   <img width="224px" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Solutions Architect Associate Badge"/>
 </a>  
 <a href="https://www.credly.com/users/vicente-diaz-corralejo-arganda" target="_blank">
-  <img width="224px" src="https://images.credly.com/size/340x340/images/cd53b277-49bc-4d7c-bbaa-c5e41a1b9860/image.png" alt="Developer Associate Badge"/>
+  <img width="224px" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="Developer Associate Badge"/>
 </a>  
 
 ---
